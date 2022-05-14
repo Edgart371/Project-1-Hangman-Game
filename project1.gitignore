@@ -12,3 +12,6 @@ node_modules
 
 # Ignore all text files
 *.txt
+
+#Ignore all bkp files
+*.bkp
